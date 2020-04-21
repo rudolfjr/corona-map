@@ -10,3 +10,5 @@ Criado um mapa mostrando os casos do vírus no mundo
 * [Resolve Src](https://github.com/alampros/gatsby-plugin-resolve-src)
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
+
+Você pode ver o site em ação aqui https://corona.rudolf.dev/
