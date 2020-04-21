@@ -1,2 +1,12 @@
-# corona-map
-Mapa do mundo mostrando casos de coronavírus, consumindo uma API pública, utilizando Gatsby.JS e Leaflet
+# Coronavírus Map
+
+Criado um mapa mostrando os casos do vírus no mundo
+
+## O que foi utilizado
+* [Yarn](https://yarnpkg.com/en/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [Sass](https://sass-lang.com)
+* [React Helmet](https://github.com/nfl/react-helmet)
+* [Resolve Src](https://github.com/alampros/gatsby-plugin-resolve-src)
+* [Leaflet](https://leafletjs.com/)
+* [React Leaflet](https://react-leaflet.js.org)
